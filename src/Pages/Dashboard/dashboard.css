@@ -1,0 +1,27 @@
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  height: 300px;
+  width: 300px;
+  /* padding: 50px 50px; */
+  font-size: 50px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: RoyalBlue;
+}
+.card{
+  background-color: rgba(30, 143, 255, 0.205);
+  border: 1px solid RoyalBlue;
+  border-radius: 10px;
+  color: white;
+  /* padding: 50px 50px; */
+  height: 300px;
+  width: 300px;
+  font-size: 50px;
+  cursor: pointer;
+}
+.card:hover{
+  background-color: rgba(65, 105, 225, 0.372);
+}

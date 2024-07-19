@@ -1,0 +1,13 @@
+.input-size,.input-size>input{
+  font-size: larger;
+}
+.form{
+  display:'flex';
+  flex-direction:'column';
+  gap: 7px;
+}
+.login{
+  display:'flex';
+  align-items:'center';
+  flex-direction:'column';
+}
